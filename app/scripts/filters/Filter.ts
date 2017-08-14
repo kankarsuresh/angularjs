@@ -1,0 +1,1 @@
+angular.module("DemoApp.filter",[]).filter(myDemoApp.filters)

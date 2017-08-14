@@ -1,0 +1,10 @@
+**/.idea/
+**/target/
+**/*.iml
+**/*.tmp.txt
+/log
+.tscache/
+node_modules/
+app/bower_components/
+**/obj
+**/bin
